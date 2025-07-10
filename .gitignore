@@ -1,0 +1,13 @@
+# NetBeans specific
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore user-specific files
+nb-configuration.xml
